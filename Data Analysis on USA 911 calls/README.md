@@ -12,5 +12,5 @@ The use of all the above libraries are well explained concisely in the notebook
 1. Read data with pandas
 2. Use pandas and numpy to wrangle and analyze data
 3. Use Visualization tools like seaborn, matplotlib to visualize all your findings
-**You can freely fork and build upon it if you find this work interesting.**
+**You can freely fork and build upon it if you find this work interesting.**   
 #Don't forget to give a STAR as a token of motivation. Thanks.
