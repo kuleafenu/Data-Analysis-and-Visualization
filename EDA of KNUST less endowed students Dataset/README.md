@@ -4,12 +4,17 @@ This Ipython notebook is for people who want to build their career in Data Scien
 ## Things you will learn
  * How to scrap data from any website with `python` and `beautiful soup`
  * How to read and analyze data with `pandas` and `numpy` libraries
- * You will create various data visualization such as pie chart, histogram, barplot,heatmap etc with seaborn and matplotlib
+ * You will create various data visualization such as:
+   * pie chart
+   * histogram
+   * barplot
+   * heatmap etc with seaborn and matplotlib
  *etc 
  
 **NB** The data was scrapped for educational purposes ONLY.  
+
 ## INSTALLATION
-python3 of anaconda
+python3 within anaconda
 
 ## Dependencies
 * numpy
